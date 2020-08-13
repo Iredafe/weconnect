@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://user:user100@cluster0-wvo6k.mongodb.net/weconnectdb?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://user:user100@cluster0-wvo6k.mongodb.net/weconnectdb?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
